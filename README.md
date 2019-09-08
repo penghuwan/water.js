@@ -1,2 +1,3 @@
-# water.js
-本项目只包含ReadMe，目的是教大家怎么用markdown等工具写一个漂亮的ReadMe
+# water.js  ![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/npm-v1.0.1-blue) ![](https://img.shields.io/badge/circleci-passing-brightgreen)
+
+(https://img.shields.io/badge/circleci-passing-brightgree
